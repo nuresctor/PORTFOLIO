@@ -1,0 +1,122 @@
+# Translation of Plugins - WP Reading Progress - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Reading Progress - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-05 11:21:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Reading Progress - Development (trunk)\n"
+
+#: wp-reading-progress.php:190
+msgid "How to stick"
+msgstr "Cómo pegarla"
+
+#: wp-reading-progress.php:196
+msgid "If the bar is too wide, try relative positioning by checking this box, or attach it to another element."
+msgstr "Si la barra es demasiado ancha, prueba a colocarla de forma relativa marcando esta casilla o adjúntala a otro elemento."
+
+#: wp-reading-progress.php:275
+msgid "For unchecked post types you can enable the reading progress bar per post on the post edit page."
+msgstr "Para los tipos de contenido no marcados, puedes activar la barra de progreso de lectura por entrada en la página de edición de la entrada."
+
+#: wp-reading-progress.php:120
+msgid "display reading progress bar"
+msgstr "mostrar la barra de progreso de lectura"
+
+#: wp-reading-progress.php:156
+msgid "This plugin displays a reading progress bar on your selected post types."
+msgstr "Este plugin muestra una barra de progreso de lectura en tus tipos de contenido seleccionados."
+
+#: wp-reading-progress.php:158
+msgid "When it does not find a single article, it uses the whole page to calculate reading progress."
+msgstr "Cuando no encuentra un artículo individual, usa toda la página para calcular el progreso de lectura."
+
+#: wp-reading-progress.php:160
+msgid "For post types which are switched off in the settings, you can activate the bar per post in the post-edit screen."
+msgstr "Para los tipos de contenido que están desactivados en los ajustes, puedes activar la barra por entrada en la pantalla de edición de la entrada."
+
+#: wp-reading-progress.php:261
+msgid "Show reading progress on"
+msgstr "Mostrar el progreso de lectura en"
+
+#: wp-reading-progress.php:229
+msgid "Make bar start at 0%"
+msgstr "Hacer que la barra comience en el 0 %"
+
+#: wp-reading-progress.php:235
+msgid "Yes please"
+msgstr "Sí, por favor"
+
+#. Description of the plugin
+msgid "Light weight customizable reading progress bar. Great UX on longreads! Customize under Settings -> WP Reading Progress"
+msgstr "Barra de progreso de lectura ligera y personalizable. ¡Gran UX en grandes lecturas! Personalizar en «Ajustes -> WP Reading Progress»"
+
+#. Author of the plugin
+msgid "Ruige hond"
+msgstr "Ruige hond"
+
+#. Author URI of the plugin
+msgid "https://ruigehond.nl"
+msgstr "https://ruigehond.nl"
+
+#: wp-reading-progress.php:153
+msgid "Set your options"
+msgstr "Establece tus opciones"
+
+#: wp-reading-progress.php:162
+msgid "Please use valid input or the bar might not display."
+msgstr "Por favor, usa una entrada válida o puede que no se visualice la barra."
+
+#: wp-reading-progress.php:174
+msgid "Stick the bar to this element"
+msgstr "Pegar la barra a este elemento"
+
+#. translators: two links are inserted that set the value accordingly, 'top'
+#. and 'bottom'
+#: wp-reading-progress.php:180
+msgid "Use %s or %s, or any VALID selector of a fixed element where the bar can be appended to, e.g. a sticky menu."
+msgstr "Usa %s o %s o cualquier selector VÁLIDO de un elemento fijo al que pueda ser añadida la barra, por ejemplo, un menú fijo."
+
+#: wp-reading-progress.php:207
+msgid "Color of the progress bar"
+msgstr "Color de la barra de progreso"
+
+#: wp-reading-progress.php:218
+msgid "Progress bar thickness"
+msgstr "Grosor de la barra de progreso"
+
+#: wp-reading-progress.php:221
+msgid "Thickness based on screen height is recommended, e.g. %s. But you can also use pixels, e.g. %s."
+msgstr "Se recomienda un grosor basado en la altura de la pantalla, por ejemplo, %s. Pero también puedes usar píxeles, por ejemplo, %s."
+
+#: wp-reading-progress.php:243
+msgid "On single post page"
+msgstr "En la página de la entrada individual"
+
+#: wp-reading-progress.php:250
+msgid "use whole page to calculate reading progress"
+msgstr "usar toda la página para calcular el progreso de lectura"
+
+#: wp-reading-progress.php:284
+msgid "And on their archives"
+msgstr "Y en sus archivos"
+
+#: wp-reading-progress.php:325
+msgid "Save Settings"
+msgstr "Guardar los ajustes"
+
+#: wp-reading-progress.php:332
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Plugin Name of the plugin
+msgid "WP Reading Progress"
+msgstr "WP Reading Progress"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/joerivanveen/wp-reading-progress"
+msgstr "https://github.com/joerivanveen/wp-reading-progress"
